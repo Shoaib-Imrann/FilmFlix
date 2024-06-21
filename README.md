@@ -24,3 +24,13 @@ To run the command-line interface version of the project:
 
    ```bash
    python filmflix.py
+
+### GUI Version
+
+To run the graphical user interface version of the project:
+
+1. Ensure you have Python 3 and Tkinter installed.
+2. Run the filmflix_gui.py file:
+
+   ```bash
+   python filmflix_gui.py
