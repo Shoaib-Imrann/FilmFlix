@@ -13,6 +13,18 @@ FilmFlix allows users to manage a collection of movies with functionalities to a
 - **Recommend Movies**: Users can get recommendations for the top N movies based on rating.
 - **Delete a Movie**: Users can delete movies by title.
 
+### Installation
+
+1. Clone the repository:
+   
+   ```bash
+   git clone https://github.com/yourusername/FilmFlix.git
+
+2. Navigate to the project directory:
+   
+   ```bash
+   cd FilmFlix
+
 ## Usage
 
 ### CLI Version
