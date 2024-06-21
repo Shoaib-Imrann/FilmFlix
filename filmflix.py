@@ -1,4 +1,4 @@
-# cine_match.py
+# filmflix.py
 
 # List to store movies
 movies = []
@@ -38,7 +38,7 @@ def display_movies():
             print(f"Title: {movie['title']}, Genre: {movie['genre']}, Rating: {movie['rating']}")
 
 # Interactive CLI for the movie recommendation system
-def cine_match():
+def filmflix():
     while True:
         print("\nWelcome to Filmflix!")
         print("1. Add a new movie")
@@ -84,4 +84,4 @@ def cine_match():
             print("Invalid choice. Please try again.")
 
 # Run the interactive CLI
-cine_match()
+filmflix()
