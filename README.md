@@ -18,9 +18,7 @@ A movie recommendation system using in-memory data structures. Manage a collecti
    cd FilmFlix
    ```
 
-## Usage
-
-`CLI Version`
+### CLI Version
 1. Run the `filmflix.py` file:
 
    ```bash
