@@ -1,10 +1,6 @@
 # FilmFlix
 
-FilmFlix is a movie recommendation system using in-memory data structures.
-
-## Description
-
-FilmFlix allows users to manage a collection of movies with functionalities to add, search, recommend, and delete movies. This project demonstrates the use of sorting algorithms, searching algorithms, and data structures like lists and dictionaries.
+A movie recommendation system using in-memory data structures. Manage a collection of movies with functionalities to add, search, recommend, and delete movies. This project demonstrates the use of sorting algorithms, searching algorithms, and data structures like lists and dictionaries.
 
 ## Features
 
@@ -19,30 +15,25 @@ FilmFlix allows users to manage a collection of movies with functionalities to a
    
    ```bash
    git clone https://github.com/yourusername/FilmFlix.git
-
-2. Navigate to the project directory:
-   
-   ```bash
    cd FilmFlix
+   ```
 
 ## Usage
 
-### CLI Version
-
-To run the command-line interface version of the project:
-
-1. Ensure you have Python 3 installed.
-2. Run the `filmflix.py` file:
+`CLI Version`
+1. Run the `filmflix.py` file:
 
    ```bash
    python filmflix.py
+   ```
 
 ### GUI Version
 
 To run the graphical user interface version of the project:
 
-1. Ensure you have Python 3 and Tkinter installed.
+1. Ensure you have Tkinter installed.
 2. Run the `filmflix_gui.py` file:
 
    ```bash
    python filmflix_gui.py
+   ```
